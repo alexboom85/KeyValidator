@@ -28,7 +28,7 @@ git console
 
 **Тестирование производилось в следующем окружении**
 
-Ноутбук HP Pavilion,Windows 10, x64
+Ноутбук HP Pavilion,Windows 10, x64     
 openjdk version "11.0.11" 2021-04-20
 
 [issue 1](https://github.com/alexboom85/KeyValidator/issues/1)   
