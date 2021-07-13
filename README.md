@@ -23,9 +23,9 @@
 
 git console
 
-В качестве тестовых данных использовались данные <указать источник, откуда брались тестовые данные>:
+В качестве тестовых данных использовались данные:
 
-https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md
+(https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
 
 Тестирование производилось в следующем окружении:
 
