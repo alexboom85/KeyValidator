@@ -9,9 +9,8 @@
 
 Ссылки на Issue.   
 
-[issue 1](https://github.com/alexboom85/KeyValidator/issues/1)     
-[issue 2](https://github.com/alexboom85/KeyValidator/issues/2)    
-[issue 3](https://github.com/alexboom85/KeyValidator/issues/3) 
+[Credit Card Number Validator определяет валидные ключи как не валидные](https://github.com/alexboom85/KeyValidator/issues/1)
+[Credit Card Number Validator определяет не валидные ключи как валидные](https://github.com/alexboom85/KeyValidator/issues/3) 
 
 В результате тестирования выявлены следующие дефекты:  
 
